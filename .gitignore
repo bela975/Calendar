@@ -1,0 +1,14 @@
+venv
+__pycache__
+db.sqlite3
+.vscode/
+env/
+static/
+*.pyc
+venv
+__pycache__
+.venv
+license
+PETracker/__init__.py
+djangocalendar/__init__.py
+recipes/__init__.py
